@@ -157,3 +157,13 @@ MIT License - See LICENSE file for details
 - PyBind11 team for Python binding capabilities
 - PyTorch team for architectural inspiration
 - Open-source ML community for testing and feedback
+
+---
+
+## License
+
+This project is licensed under the **Waefrebeorn Umbrella License v3.0**.
+See the [LICENSE](LICENSE) file for the full license text.
+
+The Waefrebeorn Umbrella License is a custom source-available license.
+It is not OSI-approved and not FSF-approved.
